@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://elisabraciola.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://elisabraciola.github.io/</loc>
+</url>
+<url>
+<loc>https://elisabraciola.github.io/about-me.html</loc>
+<lastmod>2021-03-06T18:31:12+01:00</lastmod>
+</url>
+<url>
+<loc>https://elisabraciola.github.io/progetto-1.html</loc>
+<lastmod>2021-03-06T18:26:23+01:00</lastmod>
+<image:image>
+<image:loc>https://elisabraciola.github.io/media\posts\2/IMG20210306092951.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://elisabraciola.github.io/progetto-2.html</loc>
+<lastmod>2021-03-06T18:26:15+01:00</lastmod>
+<image:image>
+<image:loc>https://elisabraciola.github.io/media\posts\3/IMG_20200105_112905.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://elisabraciola.github.io/progetto-3.html</loc>
+<lastmod>2021-03-06T18:26:07+01:00</lastmod>
+<image:image>
+<image:loc>https://elisabraciola.github.io/media\posts\4/dovetiporto-blog.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

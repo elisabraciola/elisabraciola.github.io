@@ -1,0 +1,76 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dovetiporto web",
+    "description": "",
+    "home_page_url": "https://elisabraciola.github.io",
+    "feed_url": "https://elisabraciola.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Elisa"
+    },
+    "items": [
+        {
+            "id": "https://elisabraciola.github.io/about-me.html",
+            "url": "https://elisabraciola.github.io/about-me.html",
+            "title": "About Me",
+            "summary": "Chi sono",
+            "content_html": "<p>Chi sono</p>",
+            "author": {
+                "name": "Elisa"
+            },
+            "tags": [
+                   "about"
+            ],
+            "date_published": "2021-03-06T18:31:12+01:00",
+            "date_modified": "2021-03-06T18:31:12+01:00"
+        },
+        {
+            "id": "https://elisabraciola.github.io/progetto-3.html",
+            "url": "https://elisabraciola.github.io/progetto-3.html",
+            "title": "progetto 3",
+            "summary": "blablabla",
+            "content_html": "<p>blablabla</p>",
+            "image": "https://elisabraciola.github.io/media/posts/4/dovetiporto-blog.jpg",
+            "author": {
+                "name": "Elisa"
+            },
+            "tags": [
+                   "projects"
+            ],
+            "date_published": "2021-03-06T18:16:02+01:00",
+            "date_modified": "2021-03-06T18:26:07+01:00"
+        },
+        {
+            "id": "https://elisabraciola.github.io/progetto-2.html",
+            "url": "https://elisabraciola.github.io/progetto-2.html",
+            "title": "progetto 2",
+            "summary": "blablabla",
+            "content_html": "<p>blablabla</p>",
+            "image": "https://elisabraciola.github.io/media/posts/3/IMG_20200105_112905.jpg",
+            "author": {
+                "name": "Elisa"
+            },
+            "tags": [
+                   "projects"
+            ],
+            "date_published": "2021-03-06T18:15:26+01:00",
+            "date_modified": "2021-03-06T18:26:15+01:00"
+        },
+        {
+            "id": "https://elisabraciola.github.io/progetto-1.html",
+            "url": "https://elisabraciola.github.io/progetto-1.html",
+            "title": "progetto 1",
+            "summary": "blablabla",
+            "content_html": "<p>blablabla</p>",
+            "image": "https://elisabraciola.github.io/media/posts/2/IMG20210306092951.jpg",
+            "author": {
+                "name": "Elisa"
+            },
+            "tags": [
+                   "projects"
+            ],
+            "date_published": "2021-03-06T18:14:36+01:00",
+            "date_modified": "2021-03-06T18:26:23+01:00"
+        }
+    ]
+}

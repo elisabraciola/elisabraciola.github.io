@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://elisabraciola.github.io/about-me.html",
-            "url": "https://elisabraciola.github.io/about-me.html",
+            "id": "https://elisabraciola.github.io/about-me/",
+            "url": "https://elisabraciola.github.io/about-me/",
             "title": "About Me",
             "summary": "Chi sono",
             "content_html": "<p>Chi sono</p>",
@@ -25,8 +25,8 @@
             "date_modified": "2021-03-06T18:31:12+01:00"
         },
         {
-            "id": "https://elisabraciola.github.io/progetto-3.html",
-            "url": "https://elisabraciola.github.io/progetto-3.html",
+            "id": "https://elisabraciola.github.io/progetto-3/",
+            "url": "https://elisabraciola.github.io/progetto-3/",
             "title": "progetto 3",
             "summary": "blablabla",
             "content_html": "<p>blablabla</p>",
@@ -41,11 +41,11 @@
             "date_modified": "2021-03-06T18:26:07+01:00"
         },
         {
-            "id": "https://elisabraciola.github.io/progetto-2.html",
-            "url": "https://elisabraciola.github.io/progetto-2.html",
-            "title": "progetto 2",
-            "summary": "blablabla",
-            "content_html": "<p>blablabla</p>",
+            "id": "https://elisabraciola.github.io/lostinparadise/",
+            "url": "https://elisabraciola.github.io/lostinparadise/",
+            "title": "Lost in Paradise",
+            "summary": "WORDPRESSLost in Paradise, blog di viaggi, creato attraverso l'utilizzo della piattaforma WordPress. https://www.lostinparadise.it",
+            "content_html": "<h6>WORDPRESS</h6>\n<p>Lost in Paradise, blog di viaggi, creato attraverso l'utilizzo della piattaforma WordPress.</p>\n<p><a href=\"https://www.lostinparadise.it\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.lostinparadise.it</a></p>",
             "image": "https://elisabraciola.github.io/media/posts/3/IMG_20200105_112905.jpg",
             "author": {
                 "name": "Elisa"
@@ -54,14 +54,14 @@
                    "projects"
             ],
             "date_published": "2021-03-06T18:15:26+01:00",
-            "date_modified": "2021-03-06T18:26:15+01:00"
+            "date_modified": "2021-03-10T09:25:36+01:00"
         },
         {
-            "id": "https://elisabraciola.github.io/progetto-1.html",
-            "url": "https://elisabraciola.github.io/progetto-1.html",
-            "title": "progetto 1",
-            "summary": "blablabla",
-            "content_html": "<p>blablabla</p>",
+            "id": "https://elisabraciola.github.io/dovetiporto/",
+            "url": "https://elisabraciola.github.io/dovetiporto/",
+            "title": "DoveTiPorto",
+            "summary": "WORDPRESSCreazione di un Travel blog, attraverso l'utilizzo della piattaforma WordPress, da utilizzare per condividere guide, informazioni e curiosità di viaggio. https://www.dovetiporto.net",
+            "content_html": "<h6 class=\"msg--success\">WORDPRESS</h6>\n<p>Creazione di un Travel blog, attraverso l'utilizzo della piattaforma WordPress, da utilizzare per condividere guide, informazioni e curiosità di viaggio.</p>\n<p><a href=\"https://www.dovetiporto.net\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.dovetiporto.net</a></p>",
             "image": "https://elisabraciola.github.io/media/posts/2/IMG20210306092951.jpg",
             "author": {
                 "name": "Elisa"
@@ -70,7 +70,7 @@
                    "projects"
             ],
             "date_published": "2021-03-06T18:14:36+01:00",
-            "date_modified": "2021-03-06T18:26:23+01:00"
+            "date_modified": "2021-03-10T09:25:46+01:00"
         }
     ]
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>dovetiporto web</title>
+    <title>DoveTiPorto Web</title>
     <link href="https://elisabraciola.github.io/feed.xml" rel="self" />
     <link href="https://elisabraciola.github.io" />
-    <updated>2021-03-10T09:25:46+01:00</updated>
+    <updated>2021-03-11T18:02:21+01:00</updated>
     <author>
         <name>Elisa</name>
     </author>
@@ -87,19 +87,28 @@
         <id>https://elisabraciola.github.io/dovetiporto/</id>
             <category term="projects"/>
 
-        <updated>2021-03-10T09:25:46+01:00</updated>
+        <updated>2021-03-11T18:02:21+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://elisabraciola.github.io/media/posts/2/IMG20210306092951.jpg" alt="" />
-                    WORDPRESSCreazione di un Travel blog, attraverso l'utilizzo della piattaforma WordPress, da utilizzare per condividere guide, informazioni e curiosità di viaggio. https://www.dovetiporto.net
+                        <img src="https://elisabraciola.github.io/media/posts/2/IMG_20191202_081731_01.jpg" alt="" />
+                    WORDPRESS Creazione di un Travel blog, attraverso l'utilizzo della piattaforma WordPress, da utilizzare per condividere guide, informazioni e curiosità di&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://elisabraciola.github.io/media/posts/2/IMG20210306092951.jpg" alt="" />
-                <h6 class="msg--success">WORDPRESS</h6>
+                    <img src="https://elisabraciola.github.io/media/posts/2/IMG_20191202_081731_01.jpg" alt="" />
+                <p class="msg--highlight  align-left msg  msg--info">WORDPRESS</p>
 <p>Creazione di un Travel blog, attraverso l'utilizzo della piattaforma WordPress, da utilizzare per condividere guide, informazioni e curiosità di viaggio.</p>
+<hr>
 <p><a href="https://www.dovetiporto.net" target="_blank" rel="noopener noreferrer">https://www.dovetiporto.net</a></p>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://elisabraciola.github.io/media/posts/2/gallery/dovetiporto-home.png" data-size="1899x935"><img loading="lazy" src="https://elisabraciola.github.io/media/posts/2/gallery/dovetiporto-home-thumbnail.png" alt="" width="768" height="378"></a></figure>
+</div></div>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://elisabraciola.github.io/media/posts/2/gallery/IMG_20190514_114827.jpg" data-size="1536x2048"><img loading="lazy" src="https://elisabraciola.github.io/media/posts/2/gallery/IMG_20190514_114827-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://elisabraciola.github.io/media/posts/2/gallery/IMG_20191125_143338.jpg" data-size="1536x2048"><img loading="lazy" src="https://elisabraciola.github.io/media/posts/2/gallery/IMG_20191125_143338-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://elisabraciola.github.io/media/posts/2/gallery/IMG_20191202_092715.jpg" data-size="1536x2048"><img loading="lazy" src="https://elisabraciola.github.io/media/posts/2/gallery/IMG_20191202_092715-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
